@@ -1,2 +1,5 @@
 # project-basic (By Santosh Sir)
-##project session
+```java
+class test{
+int x=10;
+}
