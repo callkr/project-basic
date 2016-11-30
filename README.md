@@ -43,8 +43,16 @@ SESSION 05: TO COMMUNICATE BETWEEN DATABASE AND USER INTERFACE BEFORE AND AFTER 
 ```
 SESSION 06: CONCEPT OF FORM VALIDATION
 ```
-01: validation on string
-02: Validation on number
-03: validation on email
-04: validation on password
+01: checking-all-numbers-with plus-minus
+02: Checking-for-all-letters
+03: Checking-for-all-numbers
+04: Checking-for-non-empty
+05: checking-length-restriction
+06: checking-letters-and-numbers
+07: credit-card-validation
+08: form-validation-email
+09: form-validation-field-level
+10: js-form-validation
+11: phoneno-validation
+
 ```
