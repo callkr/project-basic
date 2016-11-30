@@ -16,8 +16,7 @@ The forName() method of Class class is used to register the driver class. This m
 ```
 public static void forName(String className)throws ClassNotFoundException  
 Example to register the OracleDriver class
-```
-```java
+
 Class.forName("oracle.jdbc.driver.OracleDriver");  
 ```
  
